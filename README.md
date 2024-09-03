@@ -1,14 +1,9 @@
-# image-template
+# Supernova V2
 
-# Purpose
+Fedora Atomic Desktop with the COSMIC Desktop Environment and additional COSMIC Applications + Applets 
 
-This repository is meant to be a template for building your own custom Universal Blue image. This template is the recommended way to make customizations to any image published by the Universal Blue Project:
-- [Aurora](https://getaurora.dev/)
-- [Bazzite](https://bazzite.gg/)
-- [Bluefin](https://projectbluefin.io/)
-- [uCore](https://projectucore.io/)
-- [main](https://github.com/ublue-os/main/)
-- [hwe](https://github.com/ublue-os/hwe/) 
+> [!NOTE]
+> These images are not associated with System76! If you have issues, please understand they might be COSMIC related, OR they might be related to this image.
 
 This template includes a Containerfile and a Github workflow for building the container image. As soon as the workflow is enabled in your repository, it will build the container image and push it to the Github Container Registry.
 
