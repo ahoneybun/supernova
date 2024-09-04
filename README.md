@@ -1,4 +1,4 @@
-# Supernova V2
+# Supernova
 
 Fedora Atomic Desktop with the COSMIC Desktop Environment and additional COSMIC Applications + Applets 
 
