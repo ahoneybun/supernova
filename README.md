@@ -1,9 +1,6 @@
 # Supernova
 
-Fedora Atomic Desktop with the COSMIC Desktop Environment and additional COSMIC Applications + Applets 
-
-> [!NOTE]
-> These images are not associated with System76! If you have issues, please understand they might be COSMIC related, OR they might be related to this image.
+Something Something
 
 This template includes a Containerfile and a Github workflow for building the container image. As soon as the workflow is enabled in your repository, it will build the container image and push it to the Github Container Registry.
 
